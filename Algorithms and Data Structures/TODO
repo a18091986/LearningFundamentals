@@ -1,12 +1,17 @@
 Структуры:
 - heap
+-- куча - древовидная структура данных, в которой элементы,
+   находящиеся выше всегда больше элементов, находящихся ниже
+
 - binary tree
 -
 
 
 Алгоритмы:
 
-- heapsort https://youtu.be/QhMWAA7qXtA
+- heapsort
+-- https://youtu.be/QhMWAA7qXtA
+--
 
 
 
